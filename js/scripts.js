@@ -48,4 +48,9 @@ $(document).ready(function() {
     $(".Chain-showing").toggle();
     $(".Chain-hidden").toggle();
   });
+
+  $(".clickable11").click(function() {
+    $(".strings-showing").toggle();
+    $(".strings-hidden").toggle();
+  });
 });

@@ -127,3 +127,16 @@
 .Chain-showing {
   display: none;
 }
+
+.clickable11 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable11:hover {
+  text-decoration: underline;
+}
+
+.strings-showing {
+  display: none;
+}
