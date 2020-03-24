@@ -49,3 +49,81 @@
 .var-name-con-showing {
   display: none;
 }
+
+.clickable5 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable5:hover {
+  text-decoration: underline;
+}
+
+.function-showing{
+  display: none;
+}
+
+.clickable6 {
+  cursor: pointer;
+  color: rebeccapurple;
+}
+
+.clickable6:hover {
+  text-decoration: underline;
+}
+
+.methods-showing {
+  display: none;
+}
+
+.clickable7 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable7:hover {
+  text-decoration: underline;
+}
+
+.arguments-showing {
+  display: none;
+}
+
+.clickable8 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable8:hover {
+  text-decoration: underline;
+}
+
+.parameters-showing {
+  display: none;
+}
+
+.clickable9 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable9:hover {
+  text-decoration: underline;
+}
+
+.return-showing {
+  display: none;
+}
+
+.clickable10 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable10:hover {
+  text-decoration: underline;
+}
+
+.Chain-showing {
+  display: none;
+}

@@ -19,4 +19,33 @@ $(document).ready(function() {
     $(".var-name-con-hidden").toggle();
   });
 
+  $(".clickable5").click(function() {
+    $(".function-showing").toggle();
+    $(".function-hidden").toggle();
+  });
+
+  $(".clickable6").click(function() {
+    $(".methods-showing").toggle();
+    $(".methods-hidden").toggle();
+  });
+  
+  $(".clickable7").click(function() {
+    $(".arguments-showing").toggle();
+    $(".arguments-hidden").toggle();
+  });
+
+  $(".clickable8").click(function() {
+    $(".parameters-showing").toggle();
+    $(".parameters-hidden").toggle();
+  });
+
+  $(".clickable9").click(function() {
+    $(".return-showing").toggle();
+    $(".return-hidden").toggle();
+  });
+
+  $(".clickable10").click(function() {
+    $(".Chain-showing").toggle();
+    $(".Chain-hidden").toggle();
+  });
 });
