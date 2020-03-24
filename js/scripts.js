@@ -9,5 +9,14 @@ $(document).ready(function() {
     $(".oper-hidden").toggle();
   });
 
+  $(".clickable3").click(function() {
+    $(".var-showing").toggle();
+    $(".var-hidden").toggle();
+  });
+  
+  $(".clickable4").click(function() {
+    $(".var-name-con-showing").toggle();
+    $(".var-name-con-hidden").toggle();
+  });
 
 });
