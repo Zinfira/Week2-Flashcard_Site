@@ -10,3 +10,16 @@
 .js-showing {
   display : none;
 }
+
+.clickable2 {
+  cursor: pointer;
+  color: rgb(160, 92, 92);
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.oper-showing {
+  display : none;
+}
